@@ -1,0 +1,22 @@
+# ============================================================
+# Property Price Prediction — Python Dependencies
+# ============================================================
+# Install with:  pip install -r requirements.txt
+# Note: Requires Python 3.10 or higher (for type hint syntax).
+# ============================================================
+
+# --- Core data processing ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Machine learning ---
+scikit-learn>=1.3.0
+
+# --- Visualisation ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Notebook support (local Jupyter) ---
+notebook>=7.0.0
+ipykernel>=6.0.0
+nbconvert>=7.0.0
